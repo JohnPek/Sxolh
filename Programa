@@ -1,0 +1,5 @@
+System.out.println("                  Δευτέρα     Τρίτη     Τετάρτη     Πέμπτη     Παρασκευή\n");
+System.out.println("IT skills                                                      10:20-12:20\n");
+System.out.println("Software         10:20-13:20\nDevelopment\n");
+System.out.println("Web Authoring                          14:20-17:00\nand Managment\n");
+System.out.println("Academin Skills                                                12:20-15:20\nfor Computing");
